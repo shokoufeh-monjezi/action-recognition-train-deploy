@@ -1,4 +1,4 @@
-#Train TAO Action Recognition using Quick Deploy
+# Train TAO Action Recognition using Quick Deploy
 
 
 ## Action recognition using TAO ActionRecognitionNet
@@ -21,6 +21,7 @@ Note: A customized kernel for the Jupyter Notebook is used as the primary mechan
 https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/containers/tao-toolkit-tf
 
 The container version: nvcr.io/nvidia/tao/tao-toolkit:4.0.0-pyt
+
 
 # Deploy TAO Action Recognition Using Quick deploy
 
